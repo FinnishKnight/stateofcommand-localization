@@ -1,19 +1,30 @@
 # -------------------------------------
-# State of Command: Finnish locale
+# State of Command: English locale
 # Format: key=value
 # Lines starting with # are comments
 # -------------------------------------
 
 # Main Menu
-menu.button.start_game=Aloita peli
+menu.button.start_game=Aloita Peli
 menu.button.profile=Profiili
 menu.button.settings=Asetukset
-menu.button.quit=Lopeta peli
-menu.intro.presented_by=Pelin esittää sinulle 
+menu.button.quit=Lopeta
+menu.intro.presented_by=Pelin esittää sinulle
+menu.intro.layth_issam_elzaim=L a y t h  I s s a m  E l  Z a i m
+# You can transliterate or get the equivalent of my name in your language, 
+#make sure to do a space between each character that is next to each other, 
+#and double space where there would normally be 1 space.
 
-# Main Menu Settings
-menu.settings.title=Asetukset
-menu.settings.language=Kieli
+# Settings| NEW STUFF AND THAT'S IT [No other updates past my name and the settings for now]
+ui.settings.title=Asetukset
+ui.settings.tab.graphics=Grafiikka
+ui.settings.tab.language=Kieli
+ui.settings.tab.game_visuals=Pelin Visuaalisuus
+
+ui.settings.resolution=Resoluutio
+ui.settings.window_mode=Ikkunatila
+
+ui.settings.language=Kieli
 
 # UI Manager| Flag Bar
 ui.button.diplomacy=Ulkopolitiikka
